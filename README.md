@@ -13,13 +13,13 @@ Tools & Technologies Used:
 Features:
 1. Keyboard-controlled driving:
    
-•	Press D to move forward
-
-•	Press A to move backward
-
-•	Press W to steer right
-
-•	Press S to steer left
+   •	Press D to move forward
+   
+   •	Press A to move backward
+   
+   •	Press W to steer right
+   
+   •	Press S to steer left
 
 3. Realistic physics using WheelColliders
 4. Visual wheel sync with WheelCollider physics
@@ -27,15 +27,18 @@ Features:
 6. Modular, clean script structure for easy expansion
 
 Challenges Faced:
+
 •	Unity input not responding: Initially, key presses like D, A, W, S were not registering due to input focus or Input System setup.
 •	Rigidbody conflict: Naming the variable rigidbody caused confusion due to Unity’s built-in property.
 •	Spelling errors: Minor typos like centreOfMass vs centerOfMass caused runtime issues.
 •	Car not moving: Diagnosed and resolved by confirming physics setup, input handling, and torque application.
 
 Outcome:
+
 A fully functional, physics-based car controller that responds accurately to user input. The project provided hands-on understanding of Unity’s physics engine, the importance of input management, and vehicle behavior simulation.
 
 Future Improvements:
+
 •	Add braking and reverse lights
 •	Implement camera follow system
 •	Introduce nitro/boost functionality
