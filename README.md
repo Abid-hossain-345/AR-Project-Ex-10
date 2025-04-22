@@ -1,12 +1,15 @@
 Project Title:"Realistic Car Physics Simulation in Unity"
+
 Objective:
 To design and implement a functional car controller in Unity using realistic physics, custom user input (keyboard-based), and WheelCollider systems to simulate driving mechanics such as acceleration, steering, and rotation.
+
 Tools & Technologies Used:
 •	Unity Engine (2021 or later)
 •	C# for scripting
 •	Rigidbody & WheelColliders for realistic car physics
 •	Unity Input System (Old) for handling custom key mappings
 •	Blender / Unity ProBuilder (optional for car model or track design)
+
 Features:
 1. Keyboard-controlled driving:
 •	Press D to move forward
