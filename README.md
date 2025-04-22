@@ -1,4 +1,4 @@
-<h2>Project Title:"Realistic Car Physics Simulation in Unity"</h2>
+<h2>Project Title:"Car Driving Simulation in Unity"</h2>
 
 <h4>Objective:</h4>
 To design and implement a functional car controller in Unity using realistic physics, custom user input (keyboard-based), and WheelCollider systems to simulate driving mechanics such as acceleration, steering, and rotation.
