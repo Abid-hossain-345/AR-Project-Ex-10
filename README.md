@@ -41,6 +41,7 @@ To design and implement a functional car controller in Unity using realistic phy
 
 •	Car not moving: Diagnosed and resolved by confirming physics setup, input handling, and torque application.
 
+
 <h4>Outcome:</h4>
 
 A fully functional, physics-based car controller that responds accurately to user input. The project provided hands-on understanding of Unity’s physics engine, the importance of input management, and vehicle behavior simulation.
